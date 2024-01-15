@@ -69,7 +69,6 @@ namespace Database
                                 {
                                     // Leggi il valore dalla colonna specificata (ad esempio, 'NomeColonna')
                                     string valoreLetto = lettore["Email"].ToString();
-                                    lettore.Close();
 
                                     if (this.NuovaPassword.Text == this.ConfermaPassword.Text)
                                     {
@@ -95,8 +94,10 @@ namespace Database
                                 {
                                     MessageBox.Show("Nessun dato trovato per la condizione specificata.");
                                 }
+                                lettore.Close();
                             }
                         }
+                        connessione.Close();
                     }
 
 
