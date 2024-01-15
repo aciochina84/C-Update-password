@@ -1,0 +1,10 @@
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\bin\Debug\Database.exe.config
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\bin\Debug\Database.exe
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\bin\Debug\Database.pdb
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.exe
+C:\Users\violatto_a\Desktop\C#\Esercizi C#\Prove\Database\Database\obj\Debug\Database.pdb
